@@ -32,7 +32,7 @@ const int N     =    0;
 
 void solve()
 {
-   cout<<"Hello to github"<<endl;
+   cout<<"Hello to competitive programming"<<endl;
 }
 int32_t  main()
 {
