@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\Users\\Ritik Kumar\\OneDrive\\Desktop\\Specialist_02\\1.cpp","tests":[{"id":1630740278328,"input":"5\n1 2 3 4 5\n2 3 4 5 1\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ritik Kumar\\OneDrive\\Desktop\\Specialist_02\\1.cpp","group":"local","local":true}
